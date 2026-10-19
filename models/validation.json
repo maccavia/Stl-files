@@ -1,0 +1,13 @@
+[
+  {
+    "model": "spearman",
+    "triangles": 22388,
+    "dimensions_mm": [
+      25.0,
+      25.0,
+      38.0
+    ],
+    "watertight": true,
+    "shells": 1
+  }
+]
